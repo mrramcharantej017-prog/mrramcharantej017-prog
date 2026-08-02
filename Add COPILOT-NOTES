@@ -1,0 +1,30 @@
+# Copilot Notes
+
+## Prompt Used
+
+Draft a GitHub Profile README in Markdown.
+
+Real context:
+- I am a B.Tech CSE.
+- I am learning Machine Learning fundamentals.
+- I have experience with Python, Java, SQL, HTML, CSS, NumPy, Pandas, and scikit-learn.
+- I use Git, GitHub, VS Code, and Jupyter Notebook.
+- I have built projects including Pumpkin Price Prediction and Women Safety Prediction System.
+
+Requirements:
+- Keep it under 40 lines.
+- Use a professional tone.
+- Include a tech stack table.
+- Do not invent achievements or skills.
+
+## What Copilot Got Right
+
+- Generated a clean README structure.
+- Included the requested sections.
+- Used the technologies I provided.
+
+## What Copilot Got Wrong
+
+- Left placeholder contact information.
+- Project descriptions were too brief.
+- I reviewed and corrected the README before publishing.
